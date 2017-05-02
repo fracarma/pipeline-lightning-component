@@ -2,6 +2,7 @@
 
 !.gitignore
 !.gitignore.
+!README.md
 
 /src/*
 
